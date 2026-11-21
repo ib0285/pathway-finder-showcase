@@ -4,7 +4,7 @@
 
 PathwayFinder is a web application I designed and built to help a consultant run a first consultation and client intake for Canadian immigration: collect a client's profile in a structured way, calculate their Comprehensive Ranking System (CRS) score, check settlement funds, explore "what if" scenarios, and hand over a clear written brief.
 
-> **Status:** fully built web application (v2.4.1), tested end to end. Not publicly launched. See [Status](#status).
+This is version 2.4.1, tested end to end. There is no public demo link. A walkthrough is available on request.
 
 ## Screenshots
 
@@ -57,11 +57,13 @@ From the project's `package.json` and source layout:
 - **PDF generation:** Python with ReportLab
 - **Testing:** Node's built-in test runner (CRS, report, language and rendering tests)
 
-## Status
+## My role
 
-- **Fully built** web application (v2.4.1), completed through end-to-end testing.
-- **Not publicly launched.** There is no public working link; a walkthrough is available on request.
-- **No real client data.** Everything shown here is sample data.
+Product idea, design and full-stack build by Bakhytzhan Ibrayev.
+
+## Sample data
+
+No real client data is used here. Everything shown in the screenshots is sample data.
 
 ## Disclaimer
 
